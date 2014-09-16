@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Skinny Bones
-description: "A lightweight site starter for Jekyll"
+title: James Black
+description: "Jesuan and PhD student at Cambridge University"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: //mmistakes.github.io/skinny-bones-jekyll
+url: http://0.0.0.0:4000
 
 # Jekyll configuration
 
@@ -21,16 +21,16 @@ gems:
 
 # Site owner
 owner:
-  name: Michael Rose
-  web: http://mademistakes.com
-  email: michael@mademistakes.com
-  twitter: mmistakes
+  name: James Black
+  web: http://epijim.uk
+  email: james@epijim.uk
+  twitter: 
   bio: "Just another boring, tattooed, time traveling designer."
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
-    plus: +MichaelRoseDesign
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 3049671934
+    plus: 
+    ad-client: 
+    ad-slot: 
   disqus-shortname:
 
 
